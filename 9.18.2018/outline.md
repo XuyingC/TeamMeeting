@@ -25,6 +25,8 @@ git pull XXX master
 7. update.
 
 # What you need learn
+## Basic
+* terminal command [link](https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/)
 
 ## Our Techinical Stack
 
