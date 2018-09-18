@@ -26,7 +26,18 @@ git pull XXX master
 
 # What you need learn
 
+## Our Techinical Stack
+
+Front-end: ReactJs, Bulma
+Back-end: Spring (Restful API)
+Database: MongoDB
+Also, we will use [Github GraphQL API](https://developer.github.com/v4/)
+
 ## React
+
+### Prerequisite
+
+Javascript(ES6), HTML
 
 ### You need download
 
@@ -46,4 +57,15 @@ vs code plugin:
 
 ## Java Spring
 
+### You need download
+
+1. Spring Tool Suite [(download)](https://spring.io/tools/sts/all);
+
+### Set up
+
 # Task
+
+You need to do the following work during the next two days. Our next meeting is on 9/21/2018
+
+1. Read my first assignment. Approximately understand what we will develop.
+2. Explore Github [marketplace](https://github.com/marketplace). Try to find some good features which other apps have. I recommand you look up apps under **Project Management Label**. In the next meeting, we are going to talk about the most important or most urgently required functionality of our app.
