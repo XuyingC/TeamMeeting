@@ -26,6 +26,10 @@ git pull XXX master
 
 # What you need learn
 
+## Basic
+
+- terminal command [link](https://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/)
+
 ## Our Techinical Stack
 
 Front-end: ReactJs, Bulma
@@ -71,4 +75,8 @@ You need to do the following work during the next two days. Our next meeting is 
 2. Explore Github [marketplace](https://github.com/marketplace). Try to find some good features which other apps have. I recommand you look up apps under **Project Management Label**. In the next meeting, we are going to talk about the most important or most urgently required functionality of our app.
 
 
+
 # Xuying Cao
+
+# Runbo Zhao
+
