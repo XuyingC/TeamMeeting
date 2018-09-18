@@ -28,6 +28,22 @@ git pull XXX master
 
 ## React
 
+### You need download
+
+1. node.js [(download)](https://nodejs.org/en/)
+2. editor: visual studio code [(download)](https://code.visualstudio.com/)
+
+### Set up
+
+```
+npm i -g create-react-app
+```
+
+vs code plugin:
+
+1. Simple React Snippets
+2. Prettier - Code formatter
+
 ## Java Spring
 
 # Task
