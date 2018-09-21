@@ -38,4 +38,31 @@ The Velocity chart can be filtered by source and label. You can also adjust the 
 
 #### Issue Manager
 
+### Codetree
+
+- Manage issues from different repos in the same view
+- [issue dependency](https://docs.codetree.com/article/8-dependencies)
+- Powerful keyboard shortcuts, including a Slack-esque issue switcher
+
 ## ReactJS Get Started
+
+### Create React App
+
+```
+create-react-app YourAppName
+cd YourAppNameFolder
+npm start
+```
+
+render() function -> html
+
+.js and .jsx
+
+### Full-stack Architecture
+
+Front-end - client
+Back-end - Server
+
+commute with HTTP protocol
+
+### React Component - Make Front-end OOP!
