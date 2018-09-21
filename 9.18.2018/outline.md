@@ -73,12 +73,3 @@ You need to do the following work during the next two days. Our next meeting is 
 
 1. Read my [first assignment](https://github.com/Runbo94/TeamMeeting/blob/master/assignment1_runbozhao.pdf). Approximately understand what we will develop.
 2. Explore Github [marketplace](https://github.com/marketplace). Try to find some good features which other apps have. I recommand you look up apps under **Project Management Label**. In the next meeting, we are going to talk about the most important or most urgently required functionality of our app.
-
-
-
-# Xuying Cao
-
-# Runbo Zhao
-
-# Runbo Zhao --
-
