@@ -2,6 +2,12 @@
 
 ## Requirements Specification
 
+1. Cards group kanban board;
+2. Analysis;
+3. Chat;
+4. Issue Dependency, design syntax;
+5. Notification;
+
 ### Zube - Project Management APP
 
 Projects - the highest level containers in Zube. You attach one or more GitHub Repositories to it.
