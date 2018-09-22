@@ -29,7 +29,7 @@
 
 Next meeting is scheduled in 25/9/2018. In these days before that, you need:
 
-- Read Ch5, Ch6 and Ch7 of Textbook;
+- Read Ch5, Ch6 and Ch7 of [Textbook](https://edisciplinas.usp.br/pluginfile.php/2150022/mod_resource/content/1/1429431793.203Software%20Engineering%20by%20Somerville.pdf);
 - Try to design our system architecture and draw the UML graph;
 - Learning React;
 
@@ -40,5 +40,5 @@ Next meeting is scheduled in 25/9/2018. In these days before that, you need:
 
 - [Github video resource](https://resources.github.com/videos/github-best-practices/)
 
-- my favorite react course
+- my favorite react course<br>
   [![Mosh React Course](http://img.youtube.com/vi/Ke90Tje7VS0/0.jpg)](http://www.youtube.com/watch?v=Ke90Tje7VS0)
