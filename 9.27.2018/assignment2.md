@@ -1,7 +1,7 @@
 # Assignment #2 Killer App Team proposal: GitGroup - A web-based software development management system
 
 Runbo(Chuck) Zhao(Team leader)
-JingYu Bao
+,JingYu Bao
 
 ## Introduction
 
