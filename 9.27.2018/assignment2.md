@@ -2,6 +2,8 @@
 
 Runbo(Chuck) Zhao(Team leader)
 JingYu Bao
+Xuying Cao
+Chengxiang Yin
 
 ## Introduction
 
@@ -27,26 +29,23 @@ Also, manager can use GitGroup to analysis the development duration, quality and
 - Throughput Chart
 - Users Throughput Chart
 - Velocity Chart
-  When you use GitGroup, the commucation among team members can also be done in the page of the GitGroup. Integrate the chat room into GitGroup, and Team member can easily chat with each other.
-  The issue card is easily transported among the team member through the chat system.
+
+When you use GitGroup, the commucation among team members can also be done in the page of the GitGroup. Integrate the chat room into GitGroup, and Team member can easily chat with each other.
+The issue cards are easily transported among the team member through the chat system.
 
 ## Why we think what you are proposing is a killer app
 
-Although there are some product management app in the GitHub marketplace, every app has their own advantages and also disadvantage. Some good feature idea appears in these apps, for exampe App parses the content of the Issue in GitGroup, according to the predefined syntax, the app can record more things like issue dependency which is not provided in GitHub. There is a lot of improvement space for these idea. So we dicide combine these features and improve the user experience. That is also the advantage of GitGroup beyond the any other project management apps and why it is a killer app.
+Although there are some product management app in the GitHub marketplace, every app has their own advantages and also disadvantages. Some good features appears in these apps, for exampe some app can parse the content of the issues in GitHub, according to the predefined syntax, the app can record more information like issue dependency which is not provided in GitHub. There is a lot of good idea to improve the GitHub. So we dicide combine these features and improve the user experience. That is also the advantage of GitGroup beyond the any other project management apps and why it is a killer app.
 
 ## Future enhancements
 
 Furthermore, the online web can have a recommendation system which help the product manager and programmer match each other. In conclusion, it is a online service based on the GitHub API, and improve the user experience.
 In details, we will foucus on:
 
-- Issue Dependency
+- Issue Dependency<br>
   Support creating dependencies between issues using the "needs #blocker_issue_number" and “needed-by #blocking_issue_number" keywords. If the issue you’re setting up a dependency relationship with is in a different repository you can use a fully qualified issue number like this "organization/repository_name#issue_number".
-
-  For example, if issue #2345 is blocked by issue #1234 you can type "needs #1234" in a comment on issue #2345 and we'll create a relationship showing issue #2345 is dependent on issue #1234.
-
-  Similarly If you’re editing issue #1234 and you want to say that it blocks issue #2345 you can type “needed-by #2345” and we’ll setup a reverse dependency. Reverse dependencies are a convenient way of creating “work item” issues that need to be completed before a larger issue (e.g. a feature) a whole is complete.
-
-  In the blocker issue, GitGroup will list all the issues that are dependent on the blocker.
+  For example, if issue #2345 is blocked by issue #1234 you can type "needs #1234" in a comment on issue #2345 and we'll create a relationship showing issue #2345 is dependent on issue #1234.<br>
+  Similarly If you’re editing issue #1234 and you want to say that it blocks issue #2345 you can type “needed-by #2345” and we’ll setup a reverse dependency. Reverse dependencies are a convenient way of creating “work item” issues that need to be completed before a larger issue (e.g. a feature) a whole is complete.<br>In the blocker issue, GitGroup will list all the issues that are dependent on the blocker.
   [(reference)](https://docs.codetree.com/article/8-dependencies)
 
 - Notification
