@@ -8,3 +8,4 @@
 - 10.18.2018
   - System modeling
     - [Use Case Diagram](https://github.com/Runbo94/TeamMeeting/blob/master/SystemDesign/UseCaseDiagram.svg)
+    - [Class Diagram](https://github.com/Runbo94/TeamMeeting/blob/master/SystemDesign/ClassDiagram.png)
